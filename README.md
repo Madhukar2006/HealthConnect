@@ -87,7 +87,3 @@ For production deployment:
 3. Configure environment variables securely
 4. Use HTTPS for secure connections
 5. Set up proper authentication and authorization
-
-## License
-
-MIT License
