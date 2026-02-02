@@ -8,7 +8,7 @@ A comprehensive telemedicine platform built with Python Flask for rural healthca
 - **Patient Portal**: Login, dashboard, book consultations, view prescriptions
 - **Doctor Portal**: Manage appointments, patient records, write prescriptions    
 - **Video Consultations**: Real-time video calls with chat functionality
-- **AI Symptom Checker**: AI-powered symptom analysis
+- **AI Symptom Checker**: AI-powered symptom analysis  
 - **Multi-language Support**: English, Hindi, and regional languages
 - **Health Tips Blog**: Educational content for patients
 
