@@ -8,7 +8,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'dev-secret-key-change-in-production')
 socketio = SocketIO(app, cors_allowed_origins="*")
 
-# Mock database (in production, use PostgreSQL/MySQL)
+# Mock database (in production, use PostgreSQL/MySQL)   
 users = {}
 appointments = []
 prescriptions = []
