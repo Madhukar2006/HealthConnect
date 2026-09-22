@@ -90,8 +90,8 @@ Health-related educational content is provided to help users understand common h
 
 ```text
                     ┌──────────────────┐
-                    │   HealthConnect   │
-                    │   Landing Page    │
+                    │   HealthConnect  │
+                    │   Landing Page   │
                     └─────────┬────────┘
                               │
                  ┌────────────┴────────────┐
