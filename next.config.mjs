@@ -12,3 +12,11 @@ const nextConfig = {
 }
 
 export default nextConfig
+/** @type {import('postcss-load-config').Config} */
+const config = {
+  plugins: {
+    '@tailwindcss/postcss': {},
+  },
+}
+
+export default config
