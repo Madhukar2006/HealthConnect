@@ -76,7 +76,11 @@ def patient_signup():
         mobile = request.form.get('mobile')
         village = request.form.get('village')
         password = request.form.get('password')
+
+        #
         # Mock user creation
+        #
+        
         users[email] = {
             'name': name,
             'email': email,
