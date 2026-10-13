@@ -1,0 +1,8 @@
+{
+  "name": "HealthConnect",
+  "description": "A comprehensive healthcare web platform for doctor discovery, appointment booking, and patient health records management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
