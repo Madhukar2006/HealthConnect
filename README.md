@@ -84,6 +84,10 @@ HealthConnect is a comprehensive, responsive, accessible healthcare web applicat
 - **Database Architecture Bridge:** Supabase PostgreSQL schema with Row-Level Security (`src/lib/supabase.ts`)
 
 ---
+```
+# Install dependencies
+npm install
+```
 
 ## Local Setup & Development
 
