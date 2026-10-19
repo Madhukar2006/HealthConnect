@@ -46,6 +46,7 @@ HealthConnect is a comprehensive, responsive, accessible healthcare web applicat
    - Responsive layouts across mobile, tablet, and 1440px desktop viewports.
 
 ---
+---
 
 ## Screens & Routes
 
